@@ -44,7 +44,7 @@ jobs:
 
             // 4. Build the markdown block (only the public-repos heading + list)
             const block = [
-              '## All Public Repositories owned by Mubadala-ACCESS at https://github.com/Mubadala-ACCESS/ :',
+              '## All Public Repositories owned by Mubadala-ACCESS: ',
               '',
               bullets
             ].join('\n');
