@@ -10,7 +10,7 @@
 - [fidas-iqair-api](https://github.com/Mubadala-ACCESS/fidas-iqair-api)
 - [maccessdashboard](https://github.com/Mubadala-ACCESS/maccessdashboard)
 <!-- END_ORG_REPOS -->
-> **_Note:_** All the above repositories are accessible at [https://github.com/Mubadala-ACCESS/](https://github.com/Mubadala-ACCESS/)
+> **_Note:_** All the above repositories are also fully accessible at [https://github.com/Mubadala-ACCESS/](https://github.com/Mubadala-ACCESS/)
 
 ## For ACCESS-NYUAD Repository Managers
 To update the list of **public** repositories under **Mubadala-ACCESS**, simply:
