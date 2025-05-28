@@ -8,6 +8,7 @@
 - [secchi-project-mobile-app-backend](https://github.com/Mubadala-ACCESS/secchi-project-mobile-app-backend)
 - [PM10_Emission_Module](https://github.com/Mubadala-ACCESS/PM10_Emission_Module)
 - [fidas-iqair-api](https://github.com/Mubadala-ACCESS/fidas-iqair-api)
+- [maccessdashboard](https://github.com/Mubadala-ACCESS/maccessdashboard)
 <!-- END_ORG_REPOS -->
 > **_Note:_** All the above repositories are accessible at [https://github.com/Mubadala-ACCESS/](https://github.com/Mubadala-ACCESS/)
 
