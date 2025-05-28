@@ -12,7 +12,7 @@
 > **_Note:_** All the above repositories are accessible at [https://github.com/Mubadala-ACCESS/](https://github.com/Mubadala-ACCESS/)
 
 ## For ACCESS-NYUAD Repository Managers
-To update the list of **public** repositories under **mubadala-access**, simply:
+To update the list of **public** repositories under **Mubadala-ACCESS**, simply:
 1. **Log in** to GitHub  
 2. Navigate to the **ACCESS-NYUAD** repository  
 3. Click the **Actions** tab  
