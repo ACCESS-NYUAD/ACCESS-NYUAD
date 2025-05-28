@@ -9,6 +9,7 @@
 - [PM10_Emission_Module](https://github.com/Mubadala-ACCESS/PM10_Emission_Module)
 - [fidas-iqair-api](https://github.com/Mubadala-ACCESS/fidas-iqair-api)
 <!-- END_ORG_REPOS -->
+> **_Note:_** All the above repositories are accessible at [https://github.com/Mubadala-ACCESS/](https://github.com/Mubadala-ACCESS/)
 
 ## For ACCESS-NYUAD Repository Managers
 To update the list of **public** repositories under **mubadala-access**, simply:
