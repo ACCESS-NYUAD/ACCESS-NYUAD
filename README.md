@@ -1,5 +1,5 @@
 <!-- START_ORG_REPOS -->
-## All Public Repositories in mubadala-access
+## All Public Repositories owned by Mubadala-ACCESS at https://github.com/Mubadala-ACCESS/ :
 
 - [secchi-project-mobile-app-frontend](https://github.com/Mubadala-ACCESS/secchi-project-mobile-app-frontend)
 - [PALAS_Dashboard](https://github.com/Mubadala-ACCESS/PALAS_Dashboard)
