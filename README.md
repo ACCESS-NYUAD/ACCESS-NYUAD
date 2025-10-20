@@ -9,6 +9,9 @@
 - [PM10_Emission_Module](https://github.com/Mubadala-ACCESS/PM10_Emission_Module)
 - [fidas-iqair-api](https://github.com/Mubadala-ACCESS/fidas-iqair-api)
 - [maccessdashboard](https://github.com/Mubadala-ACCESS/maccessdashboard)
+- [stations-status-dashboard](https://github.com/Mubadala-ACCESS/stations-status-dashboard)
+- [Qiime2-code-for-sequence-analysis](https://github.com/Mubadala-ACCESS/Qiime2-code-for-sequence-analysis)
+- [Sea_Ice_RAP](https://github.com/Mubadala-ACCESS/Sea_Ice_RAP)
 <!-- END_ORG_REPOS -->
 > **_Note:_** All the above repositories are also fully accessible at [https://github.com/Mubadala-ACCESS/](https://github.com/Mubadala-ACCESS/)
 
